@@ -25,7 +25,7 @@ For example, the request-url "/files/hello.txt" is valid and will print the cont
 
 RequestURL must be a txt, htm, or html file.
 
-Replace version-number> with two numbers separated by a period.
+Replace <version-number> with two numbers separated by a period.
 
 For example, the version-numbers "1.1" and "44.28" are valid. This is just a part of the GET request parser and doesn't affect the actual program or connection in any way.
 
